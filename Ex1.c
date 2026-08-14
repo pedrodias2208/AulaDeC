@@ -5,9 +5,11 @@ int main(){
   float quantos_salarios;
   scanf("%f", &smin);
   scanf("%f", &sbruto);
-  quantos_salarios=sbruto/smin;
-  printf("%f\n", quantos_salarios);
   
+  quantos_salarios=sbruto/smin;
+
+  printf("%f\n", quantos_salarios);
+
   return 0;
   
 }
