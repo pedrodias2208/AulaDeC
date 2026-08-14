@@ -1,5 +1,10 @@
 #include <stdio.h>
 int main(){
-  printf("Hello World!\n");
+  printf("Mackenzie FCI\n");
+  printf("Algoritmos e Programção II\n");
+  printf("02N11\n");
+  printf("%d\n", 2026 - 55);
+
+
   return 0;
 }
